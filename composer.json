@@ -1,0 +1,21 @@
+{
+    "name": "sirikkoster/pokeapi-data",
+    "description": "Data for Pokemon",
+    "keywords": [
+        "pokemon",
+        "tcg",
+        "sdk"
+    ],
+    "type": "library",
+    "license": "MIT",
+
+    "require": {
+    },
+    "require-dev": {
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
