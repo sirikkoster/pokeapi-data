@@ -1436,6 +1436,12 @@
                 "front_default": null,
                 "front_female": null
             },
+            "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/723.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/723.png",
+                "front_shiny_female": null
+            },
             "official-artwork": {
                 "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png"
             }
@@ -1445,34 +1451,44 @@
                 "red-blue": {
                     "back_default": null,
                     "back_gray": null,
+                    "back_transparent": null,
                     "front_default": null,
-                    "front_gray": null
+                    "front_gray": null,
+                    "front_transparent": null
                 },
                 "yellow": {
                     "back_default": null,
                     "back_gray": null,
+                    "back_transparent": null,
                     "front_default": null,
-                    "front_gray": null
+                    "front_gray": null,
+                    "front_transparent": null
                 }
             },
             "generation-ii": {
                 "crystal": {
                     "back_default": null,
                     "back_shiny": null,
+                    "back_shiny_transparent": null,
+                    "back_transparent": null,
                     "front_default": null,
-                    "front_shiny": null
+                    "front_shiny": null,
+                    "front_shiny_transparent": null,
+                    "front_transparent": null
                 },
                 "gold": {
                     "back_default": null,
                     "back_shiny": null,
                     "front_default": null,
-                    "front_shiny": null
+                    "front_shiny": null,
+                    "front_transparent": null
                 },
                 "silver": {
                     "back_default": null,
                     "back_shiny": null,
                     "front_default": null,
-                    "front_shiny": null
+                    "front_shiny": null,
+                    "front_transparent": null
                 }
             },
             "generation-iii": {

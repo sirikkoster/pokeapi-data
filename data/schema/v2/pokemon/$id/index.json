@@ -247,6 +247,41 @@
                             ],
                             "type": "object"
                         },
+                        "home": {
+                            "properties": {
+                                "front_default": {
+                                    "type": [
+                                        "null",
+                                        "string"
+                                    ]
+                                },
+                                "front_female": {
+                                    "type": [
+                                        "null",
+                                        "string"
+                                    ]
+                                },
+                                "front_shiny": {
+                                    "type": [
+                                        "null",
+                                        "string"
+                                    ]
+                                },
+                                "front_shiny_female": {
+                                    "type": [
+                                        "null",
+                                        "string"
+                                    ]
+                                }
+                            },
+                            "required": [
+                                "front_default",
+                                "front_female",
+                                "front_shiny",
+                                "front_shiny_female"
+                            ],
+                            "type": "object"
+                        },
                         "official-artwork": {
                             "properties": {
                                 "front_default": {
@@ -264,6 +299,7 @@
                     },
                     "required": [
                         "dream_world",
+                        "home",
                         "official-artwork"
                     ],
                     "type": "object"
@@ -286,6 +322,12 @@
                                                 "string"
                                             ]
                                         },
+                                        "back_transparent": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
+                                        },
                                         "front_default": {
                                             "type": [
                                                 "null",
@@ -297,13 +339,21 @@
                                                 "null",
                                                 "string"
                                             ]
+                                        },
+                                        "front_transparent": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
                                         }
                                     },
                                     "required": [
                                         "back_default",
                                         "back_gray",
+                                        "back_transparent",
                                         "front_default",
-                                        "front_gray"
+                                        "front_gray",
+                                        "front_transparent"
                                     ],
                                     "type": "object"
                                 },
@@ -321,6 +371,12 @@
                                                 "string"
                                             ]
                                         },
+                                        "back_transparent": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
+                                        },
                                         "front_default": {
                                             "type": [
                                                 "null",
@@ -332,13 +388,21 @@
                                                 "null",
                                                 "string"
                                             ]
+                                        },
+                                        "front_transparent": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
                                         }
                                     },
                                     "required": [
                                         "back_default",
                                         "back_gray",
+                                        "back_transparent",
                                         "front_default",
-                                        "front_gray"
+                                        "front_gray",
+                                        "front_transparent"
                                     ],
                                     "type": "object"
                                 }
@@ -365,6 +429,18 @@
                                                 "string"
                                             ]
                                         },
+                                        "back_shiny_transparent": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
+                                        },
+                                        "back_transparent": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
+                                        },
                                         "front_default": {
                                             "type": [
                                                 "null",
@@ -376,13 +452,29 @@
                                                 "null",
                                                 "string"
                                             ]
+                                        },
+                                        "front_shiny_transparent": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
+                                        },
+                                        "front_transparent": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
                                         }
                                     },
                                     "required": [
                                         "back_default",
                                         "back_shiny",
+                                        "back_shiny_transparent",
+                                        "back_transparent",
                                         "front_default",
-                                        "front_shiny"
+                                        "front_shiny",
+                                        "front_shiny_transparent",
+                                        "front_transparent"
                                     ],
                                     "type": "object"
                                 },
@@ -411,13 +503,20 @@
                                                 "null",
                                                 "string"
                                             ]
+                                        },
+                                        "front_transparent": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
                                         }
                                     },
                                     "required": [
                                         "back_default",
                                         "back_shiny",
                                         "front_default",
-                                        "front_shiny"
+                                        "front_shiny",
+                                        "front_transparent"
                                     ],
                                     "type": "object"
                                 },
@@ -446,13 +545,20 @@
                                                 "null",
                                                 "string"
                                             ]
+                                        },
+                                        "front_transparent": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
                                         }
                                     },
                                     "required": [
                                         "back_default",
                                         "back_shiny",
                                         "front_default",
-                                        "front_shiny"
+                                        "front_shiny",
+                                        "front_transparent"
                                     ],
                                     "type": "object"
                                 }
