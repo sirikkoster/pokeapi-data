@@ -575,6 +575,226 @@
                 "name": "ultra-sun-ultra-moon",
                 "url": "/api/v2/version-group/18/"
             }
+        },
+        {
+            "flavor_text": "\u3058\u3057\u3093\u306e\u3000\u3057\u3087\u3046\u3052\u304d\u3067\u3000\u3058\u3076\u3093\u306e\n\u307e\u308f\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u3053\u3046\u3052\u304d\u3059\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "/api/v2/language/1/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\uc9c0\uc9c4\uc758 \ucda9\uaca9\uc73c\ub85c \uc790\uc2e0\uc758\n\uc8fc\uc704\uc5d0 \uc788\ub294 \ud3ec\ucf13\ubaac\uc744 \uacf5\uaca9\ud55c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "/api/v2/language/3/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u7528\u5730\u9707\u7684\u885d\u64ca\uff0c\n\u653b\u64ca\u81ea\u5df1\u5468\u570d\u6240\u6709\u7684\u5bf6\u53ef\u5922\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "/api/v2/language/4/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur provoque un tremblement de terre\ntouchant tous les Pok\u00e9mon autour de lui.",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Ein m\u00e4chtiges Beben, das die anderen Pok\u00e9mon in\nder N\u00e4he des Anwenders trifft.",
+            "language": {
+                "name": "de",
+                "url": "/api/v2/language/6/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Un terremoto que afecta a los Pok\u00e9mon de alrededor \nen combate.",
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa provoca un potente sisma che colpisce\ni Pok\u00e9mon che ha intorno.",
+            "language": {
+                "name": "it",
+                "url": "/api/v2/language/8/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "The user sets off an earthquake that strikes every\nPok\u00e9mon around it.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u5730\u9707\u306e\u3000\u885d\u6483\u3067\u3000\u81ea\u5206\u306e\n\u5468\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u653b\u6483\u3059\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "/api/v2/language/11/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u5229\u7528\u5730\u9707\u7684\u51b2\u51fb\uff0c\n\u653b\u51fb\u81ea\u5df1\u5468\u56f4\u6240\u6709\u7684\u5b9d\u53ef\u68a6\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "/api/v2/language/12/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u3058\u3057\u3093\u306e\u3000\u3057\u3087\u3046\u3052\u304d\u3067\u3000\u3058\u3076\u3093\u306e\n\u307e\u308f\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u3053\u3046\u3052\u304d\u3059\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "/api/v2/language/1/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\uc9c0\uc9c4\uc758 \ucda9\uaca9\uc73c\ub85c \uc790\uc2e0\uc758\n\uc8fc\uc704\uc5d0 \uc788\ub294 \ud3ec\ucf13\ubaac\uc744 \uacf5\uaca9\ud55c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "/api/v2/language/3/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u7528\u5730\u9707\u7684\u885d\u64ca\uff0c\n\u653b\u64ca\u81ea\u5df1\u5468\u570d\u6240\u6709\u7684\u5bf6\u53ef\u5922\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "/api/v2/language/4/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur provoque un tremblement de terre\ntouchant tous les Pok\u00e9mon autour de lui.",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Ein m\u00e4chtiges Beben, das alle Pok\u00e9mon im Umkreis\ntrifft.",
+            "language": {
+                "name": "de",
+                "url": "/api/v2/language/6/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Un terremoto que afecta a todos los Pok\u00e9mon que\nest\u00e9n a su alrededor.",
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa provoca un potente sisma che colpisce\ni Pok\u00e9mon che ha intorno.",
+            "language": {
+                "name": "it",
+                "url": "/api/v2/language/8/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "The user sets off an earthquake that strikes every\nPok\u00e9mon around it.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u5730\u9707\u306e\u3000\u885d\u6483\u3067\u3000\u81ea\u5206\u306e\n\u5468\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u653b\u6483\u3059\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "/api/v2/language/11/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u5229\u7528\u5730\u9707\u7684\u51b2\u51fb\uff0c\n\u653b\u51fb\u81ea\u5df1\u5468\u56f4\u6240\u6709\u7684\u5b9d\u53ef\u68a6\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "/api/v2/language/12/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
         }
     ],
     "generation": {
@@ -1831,7 +2051,7 @@
     "machines": [
         {
             "machine": {
-                "url": "/api/v2/machine/451/"
+                "url": "/api/v2/machine/502/"
             },
             "version_group": {
                 "name": "red-blue",
@@ -1840,7 +2060,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/452/"
+                "url": "/api/v2/machine/503/"
             },
             "version_group": {
                 "name": "yellow",
@@ -1849,7 +2069,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/453/"
+                "url": "/api/v2/machine/504/"
             },
             "version_group": {
                 "name": "gold-silver",
@@ -1858,7 +2078,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/454/"
+                "url": "/api/v2/machine/505/"
             },
             "version_group": {
                 "name": "crystal",
@@ -1867,7 +2087,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/455/"
+                "url": "/api/v2/machine/506/"
             },
             "version_group": {
                 "name": "ruby-sapphire",
@@ -1876,7 +2096,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/456/"
+                "url": "/api/v2/machine/507/"
             },
             "version_group": {
                 "name": "emerald",
@@ -1885,7 +2105,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/457/"
+                "url": "/api/v2/machine/508/"
             },
             "version_group": {
                 "name": "firered-leafgreen",
@@ -1894,7 +2114,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/458/"
+                "url": "/api/v2/machine/509/"
             },
             "version_group": {
                 "name": "diamond-pearl",
@@ -1903,7 +2123,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/459/"
+                "url": "/api/v2/machine/510/"
             },
             "version_group": {
                 "name": "platinum",
@@ -1912,7 +2132,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/460/"
+                "url": "/api/v2/machine/511/"
             },
             "version_group": {
                 "name": "heartgold-soulsilver",
@@ -1921,7 +2141,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/461/"
+                "url": "/api/v2/machine/512/"
             },
             "version_group": {
                 "name": "black-white",
@@ -1930,7 +2150,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/462/"
+                "url": "/api/v2/machine/513/"
             },
             "version_group": {
                 "name": "colosseum",
@@ -1939,7 +2159,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/463/"
+                "url": "/api/v2/machine/514/"
             },
             "version_group": {
                 "name": "xd",
@@ -1948,7 +2168,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/464/"
+                "url": "/api/v2/machine/515/"
             },
             "version_group": {
                 "name": "black-2-white-2",
@@ -1957,7 +2177,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/465/"
+                "url": "/api/v2/machine/516/"
             },
             "version_group": {
                 "name": "x-y",
@@ -1966,7 +2186,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/466/"
+                "url": "/api/v2/machine/517/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
@@ -1975,7 +2195,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/467/"
+                "url": "/api/v2/machine/518/"
             },
             "version_group": {
                 "name": "sun-moon",
@@ -1984,11 +2204,29 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/468/"
+                "url": "/api/v2/machine/519/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
                 "url": "/api/v2/version-group/18/"
+            }
+        },
+        {
+            "machine": {
+                "url": "/api/v2/machine/820/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "machine": {
+                "url": "/api/v2/machine/1599/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
             }
         }
     ],

@@ -26,6 +26,28 @@
     ],
     "flavor_text_entries": [
         {
+            "flavor_text": "A rock-crushing attack\nthat may lower DEFENSE.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "emerald",
+                "url": "/api/v2/version-group/6/"
+            }
+        },
+        {
+            "flavor_text": "An attack that may\nalso cut DEFENSE.\nIt can also smash\ncracked boulders.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "firered-leafgreen",
+                "url": "/api/v2/version-group/7/"
+            }
+        },
+        {
             "flavor_text": "An attack that may\nlower DEFENSE.",
             "language": {
                 "name": "en",
@@ -56,28 +78,6 @@
             "version_group": {
                 "name": "ruby-sapphire",
                 "url": "/api/v2/version-group/5/"
-            }
-        },
-        {
-            "flavor_text": "A rock-crushing attack\nthat may lower DEFENSE.",
-            "language": {
-                "name": "en",
-                "url": "/api/v2/language/9/"
-            },
-            "version_group": {
-                "name": "emerald",
-                "url": "/api/v2/version-group/6/"
-            }
-        },
-        {
-            "flavor_text": "An attack that may\nalso cut DEFENSE.\nIt can also smash\ncracked boulders.",
-            "language": {
-                "name": "en",
-                "url": "/api/v2/language/9/"
-            },
-            "version_group": {
-                "name": "firered-leafgreen",
-                "url": "/api/v2/version-group/7/"
             }
         },
         {
@@ -540,6 +540,226 @@
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
                 "url": "/api/v2/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u30d1\u30f3\u30c1\u3067\u3000\u3053\u3046\u3052\u304d\u3002\u3000\u3042\u3044\u3066\u306e\n\u307c\u3046\u304e\u3087\u3092\u3000\u3055\u3052\u308b\u3000\u3053\u3068\u304c\u3000\u3042\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "/api/v2/language/1/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\ud380\uce58\ub85c \uacf5\uaca9\ud55c\ub2e4. \uc0c1\ub300\uc758\n\ubc29\uc5b4\ub97c \ub5a8\uc5b4\ub728\ub9b4 \ub54c\uac00 \uc788\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "/api/v2/language/3/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u7528\u62f3\u982d\u9032\u884c\u653b\u64ca\u3002\n\u6709\u6642\u6703\u964d\u4f4e\u5c0d\u624b\u7684\u9632\u79a6\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "/api/v2/language/4/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Porte un coup de poing \u00e0 l\u2019ennemi qui peut baisser\nsa D\u00e9fense.",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Diese steinbrechende Attacke kann den\nVerteidigungs-Wert des Zieles senken.",
+            "language": {
+                "name": "de",
+                "url": "/api/v2/language/6/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Ataque con los pu\u00f1os. Puede bajar la Defensa del\nobjetivo.",
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa colpisce il bersaglio con un pugno\nche pu\u00f2 anche ridurne la Difesa.",
+            "language": {
+                "name": "it",
+                "url": "/api/v2/language/8/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u30d1\u30f3\u30c1\u3067\u3000\u653b\u6483\u3059\u308b\u3002\u76f8\u624b\u306e\n\u9632\u5fa1\u3092\u3000\u3055\u3052\u308b\u3000\u3053\u3068\u304c\u3000\u3042\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "/api/v2/language/11/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u7528\u62f3\u5934\u8fdb\u884c\u653b\u51fb\u3002\n\u6709\u65f6\u4f1a\u964d\u4f4e\u5bf9\u624b\u7684\u9632\u5fa1\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "/api/v2/language/12/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u30d1\u30f3\u30c1\u3067\u3000\u3053\u3046\u3052\u304d\u3002\u3000\u3042\u3044\u3066\u306e\n\u307c\u3046\u304e\u3087\u3092\u3000\u3055\u3052\u308b\u3000\u3053\u3068\u304c\u3000\u3042\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "/api/v2/language/1/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\ud380\uce58\ub85c \uacf5\uaca9\ud55c\ub2e4. \uc0c1\ub300\uc758\n\ubc29\uc5b4\ub97c \ub5a8\uc5b4\ub728\ub9b4 \ub54c\uac00 \uc788\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "/api/v2/language/3/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u7528\u62f3\u982d\u9032\u884c\u653b\u64ca\u3002\n\u6709\u6642\u6703\u964d\u4f4e\u5c0d\u624b\u7684\u9632\u79a6\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "/api/v2/language/4/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Porte un coup de poing \u00e0 l\u2019ennemi qui peut baisser\nsa D\u00e9fense.",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Diese steinbrechende Attacke kann den\nVerteidigungs-Wert des Zieles senken.",
+            "language": {
+                "name": "de",
+                "url": "/api/v2/language/6/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Ataque con los pu\u00f1os. Puede bajar la Defensa del\nobjetivo.",
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa colpisce il bersaglio con un pugno\nche pu\u00f2 anche ridurne la Difesa.",
+            "language": {
+                "name": "it",
+                "url": "/api/v2/language/8/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u30d1\u30f3\u30c1\u3067\u3000\u653b\u6483\u3059\u308b\u3002\u76f8\u624b\u306e\n\u9632\u5fa1\u3092\u3000\u3055\u3052\u308b\u3000\u3053\u3068\u304c\u3000\u3042\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "/api/v2/language/11/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u7528\u62f3\u5934\u8fdb\u884c\u653b\u51fb\u3002\n\u6709\u65f6\u4f1a\u964d\u4f4e\u5bf9\u624b\u7684\u9632\u5fa1\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "/api/v2/language/12/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
             }
         }
     ],
@@ -2429,7 +2649,7 @@
     "machines": [
         {
             "machine": {
-                "url": "/api/v2/machine/129/"
+                "url": "/api/v2/machine/144/"
             },
             "version_group": {
                 "name": "gold-silver",
@@ -2438,7 +2658,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/130/"
+                "url": "/api/v2/machine/145/"
             },
             "version_group": {
                 "name": "crystal",
@@ -2447,7 +2667,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/1285/"
+                "url": "/api/v2/machine/1439/"
             },
             "version_group": {
                 "name": "black-white",
@@ -2456,7 +2676,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/1286/"
+                "url": "/api/v2/machine/1440/"
             },
             "version_group": {
                 "name": "black-2-white-2",
@@ -2465,7 +2685,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/1287/"
+                "url": "/api/v2/machine/1441/"
             },
             "version_group": {
                 "name": "x-y",
@@ -2474,7 +2694,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/1409/"
+                "url": "/api/v2/machine/1565/"
             },
             "version_group": {
                 "name": "ruby-sapphire",
@@ -2483,7 +2703,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/1410/"
+                "url": "/api/v2/machine/1566/"
             },
             "version_group": {
                 "name": "emerald",
@@ -2492,7 +2712,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/1411/"
+                "url": "/api/v2/machine/1567/"
             },
             "version_group": {
                 "name": "firered-leafgreen",
@@ -2501,7 +2721,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/1412/"
+                "url": "/api/v2/machine/1568/"
             },
             "version_group": {
                 "name": "diamond-pearl",
@@ -2510,7 +2730,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/1413/"
+                "url": "/api/v2/machine/1569/"
             },
             "version_group": {
                 "name": "platinum",
@@ -2519,7 +2739,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/1414/"
+                "url": "/api/v2/machine/1570/"
             },
             "version_group": {
                 "name": "heartgold-soulsilver",
@@ -2528,7 +2748,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/1416/"
+                "url": "/api/v2/machine/1572/"
             },
             "version_group": {
                 "name": "colosseum",
@@ -2537,7 +2757,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/1417/"
+                "url": "/api/v2/machine/1573/"
             },
             "version_group": {
                 "name": "xd",
@@ -2546,29 +2766,11 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/1419/"
+                "url": "/api/v2/machine/1575/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
                 "url": "/api/v2/version-group/16/"
-            }
-        },
-        {
-            "machine": {
-                "url": "/api/v2/machine/1420/"
-            },
-            "version_group": {
-                "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
-            }
-        },
-        {
-            "machine": {
-                "url": "/api/v2/machine/1421/"
-            },
-            "version_group": {
-                "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
             }
         }
     ],

@@ -555,6 +555,226 @@
                 "name": "ultra-sun-ultra-moon",
                 "url": "/api/v2/version-group/18/"
             }
+        },
+        {
+            "flavor_text": "\u3042\u3044\u3066\u306e\u3000\u3053\u3046\u3052\u304d\u3092\n\u307e\u3063\u305f\u304f\u3000\u3046\u3051\u306a\u3044\u3002\n\u308c\u3093\u305e\u304f\u3067\u3000\u3060\u3059\u3068\u3000\u3057\u3063\u3071\u3044\u3000\u3057\u3084\u3059\u3044\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "/api/v2/language/1/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\uc0c1\ub300\uc758 \uacf5\uaca9\uc744\n\uc804\ud600 \ubc1b\uc9c0 \uc54a\ub294\ub2e4.\n\uc5f0\uc18d\uc73c\ub85c \uc4f0\uba74 \uc2e4\ud328\ud558\uae30 \uc27d\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "/api/v2/language/3/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u5b8c\u5168\u9632\u4f4f\u5c0d\u624b\u7684\u6240\u6709\u653b\u64ca\u3002\n\u9023\u7e8c\u4f7f\u7528\u6642\u5bb9\u6613\u5931\u6557\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "/api/v2/language/4/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur esquive toutes les attaques.\nLe risque d\u2019\u00e9chec augmente lorsque la capacit\u00e9\nest utilis\u00e9e plusieurs fois de suite.",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Anwender wehrt jede Attacke ab.\nScheitert eventuell bei Wiederholung.",
+            "language": {
+                "name": "de",
+                "url": "/api/v2/language/6/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Frena todos los ataques, pero puede fallar si se usa \nrepetidamente.",
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Permette di eludere tutti gli attacchi.\nSe usata in successione pu\u00f2 fallire.",
+            "language": {
+                "name": "it",
+                "url": "/api/v2/language/8/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Enables the user to protect itself from all attacks.\nIts chance of failing rises if it is used in succession.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u76f8\u624b\u306e\u3000\u653b\u6483\u3092\n\u307e\u3063\u305f\u304f\u3000\u53d7\u3051\u306a\u3044\u3002\n\u9023\u7d9a\u3067\u3000\u3060\u3059\u3068\u3000\u5931\u6557\u3057\u3084\u3059\u3044\u3002",
+            "language": {
+                "name": "ja",
+                "url": "/api/v2/language/11/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u5b8c\u5168\u62b5\u6321\n\u5bf9\u624b\u7684\u653b\u51fb\u3002\n\u8fde\u7eed\u4f7f\u51fa\u5219\u5bb9\u6613\u5931\u8d25\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "/api/v2/language/12/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u3042\u3044\u3066\u306e\u3000\u3053\u3046\u3052\u304d\u3092\n\u307e\u3063\u305f\u304f\u3000\u3046\u3051\u306a\u3044\u3002\n\u308c\u3093\u305e\u304f\u3067\u3000\u3060\u3059\u3068\u3000\u3057\u3063\u3071\u3044\u3000\u3057\u3084\u3059\u3044\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "/api/v2/language/1/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\uc0c1\ub300\uc758 \uacf5\uaca9\uc744\n\uc804\ud600 \ubc1b\uc9c0 \uc54a\ub294\ub2e4.\n\uc5f0\uc18d\uc73c\ub85c \uc4f0\uba74 \uc2e4\ud328\ud558\uae30 \uc27d\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "/api/v2/language/3/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u5b8c\u5168\u9632\u4f4f\u5c0d\u624b\u7684\u6240\u6709\u653b\u64ca\u3002\n\u9023\u7e8c\u4f7f\u7528\u6642\u5bb9\u6613\u5931\u6557\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "/api/v2/language/4/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur se prot\u00e8ge de toutes les attaques.\nPeut \u00e9chouer si utilis\u00e9e plusieurs fois de suite.",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Anwender wehrt jede Attacke ab. Scheitert eventuell\nbei Wiederholung.",
+            "language": {
+                "name": "de",
+                "url": "/api/v2/language/6/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Frena todos los ataques, pero puede fallar si se usa \nrepetidamente.",
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Permette di eludere tutti gli attacchi.\nSe usata in successione pu\u00f2 fallire.",
+            "language": {
+                "name": "it",
+                "url": "/api/v2/language/8/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "This move enables the user to protect itself from\nall attacks. Its chance of failing rises if it is used\nin succession.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u76f8\u624b\u306e\u3000\u653b\u6483\u3092\n\u307e\u3063\u305f\u304f\u3000\u53d7\u3051\u306a\u3044\u3002\n\u9023\u7d9a\u3067\u3000\u3060\u3059\u3068\u3000\u5931\u6557\u3057\u3084\u3059\u3044\u3002",
+            "language": {
+                "name": "ja",
+                "url": "/api/v2/language/11/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u5b8c\u5168\u62b5\u6321\n\u5bf9\u624b\u7684\u653b\u51fb\u3002\n\u8fde\u7eed\u4f7f\u51fa\u5219\u5bb9\u6613\u5931\u8d25\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "/api/v2/language/12/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
         }
     ],
     "generation": {
@@ -4339,7 +4559,16 @@
     "machines": [
         {
             "machine": {
-                "url": "/api/v2/machine/291/"
+                "url": "/api/v2/machine/140/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "/api/v2/version-group/19/"
+            }
+        },
+        {
+            "machine": {
+                "url": "/api/v2/machine/324/"
             },
             "version_group": {
                 "name": "gold-silver",
@@ -4348,7 +4577,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/292/"
+                "url": "/api/v2/machine/325/"
             },
             "version_group": {
                 "name": "crystal",
@@ -4357,7 +4586,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/293/"
+                "url": "/api/v2/machine/326/"
             },
             "version_group": {
                 "name": "ruby-sapphire",
@@ -4366,7 +4595,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/294/"
+                "url": "/api/v2/machine/327/"
             },
             "version_group": {
                 "name": "emerald",
@@ -4375,7 +4604,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/295/"
+                "url": "/api/v2/machine/328/"
             },
             "version_group": {
                 "name": "firered-leafgreen",
@@ -4384,7 +4613,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/296/"
+                "url": "/api/v2/machine/329/"
             },
             "version_group": {
                 "name": "diamond-pearl",
@@ -4393,7 +4622,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/297/"
+                "url": "/api/v2/machine/330/"
             },
             "version_group": {
                 "name": "platinum",
@@ -4402,7 +4631,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/298/"
+                "url": "/api/v2/machine/331/"
             },
             "version_group": {
                 "name": "heartgold-soulsilver",
@@ -4411,7 +4640,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/299/"
+                "url": "/api/v2/machine/332/"
             },
             "version_group": {
                 "name": "black-white",
@@ -4420,7 +4649,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/300/"
+                "url": "/api/v2/machine/333/"
             },
             "version_group": {
                 "name": "colosseum",
@@ -4429,7 +4658,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/301/"
+                "url": "/api/v2/machine/334/"
             },
             "version_group": {
                 "name": "xd",
@@ -4438,7 +4667,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/302/"
+                "url": "/api/v2/machine/335/"
             },
             "version_group": {
                 "name": "black-2-white-2",
@@ -4447,7 +4676,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/303/"
+                "url": "/api/v2/machine/336/"
             },
             "version_group": {
                 "name": "x-y",
@@ -4456,7 +4685,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/304/"
+                "url": "/api/v2/machine/337/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
@@ -4465,7 +4694,7 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/305/"
+                "url": "/api/v2/machine/338/"
             },
             "version_group": {
                 "name": "sun-moon",
@@ -4474,11 +4703,20 @@
         },
         {
             "machine": {
-                "url": "/api/v2/machine/306/"
+                "url": "/api/v2/machine/339/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
                 "url": "/api/v2/version-group/18/"
+            }
+        },
+        {
+            "machine": {
+                "url": "/api/v2/machine/501/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
             }
         }
     ],
